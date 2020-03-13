@@ -7480,7 +7480,7 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .navbar-brand span {
     position: absolute;
-    bottom: -18px;
+    bottom: -10px;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
